@@ -1,0 +1,30 @@
+C:\Users\Decagon\source\repos\ConsoleGpaCalculator\bin\Debug\net6.0\ConsoleGpaCalculator.exe
+C:\Users\Decagon\source\repos\ConsoleGpaCalculator\bin\Debug\net6.0\ConsoleGpaCalculator.deps.json
+C:\Users\Decagon\source\repos\ConsoleGpaCalculator\bin\Debug\net6.0\ConsoleGpaCalculator.runtimeconfig.json
+C:\Users\Decagon\source\repos\ConsoleGpaCalculator\bin\Debug\net6.0\ConsoleGpaCalculator.dll
+C:\Users\Decagon\source\repos\ConsoleGpaCalculator\bin\Debug\net6.0\ConsoleGpaCalculator.pdb
+C:\Users\Decagon\source\repos\ConsoleGpaCalculator\obj\Debug\net6.0\ConsoleGpaCalculator.csproj.AssemblyReference.cache
+C:\Users\Decagon\source\repos\ConsoleGpaCalculator\obj\Debug\net6.0\ConsoleGpaCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon\source\repos\ConsoleGpaCalculator\obj\Debug\net6.0\ConsoleGpaCalculator.AssemblyInfoInputs.cache
+C:\Users\Decagon\source\repos\ConsoleGpaCalculator\obj\Debug\net6.0\ConsoleGpaCalculator.AssemblyInfo.cs
+C:\Users\Decagon\source\repos\ConsoleGpaCalculator\obj\Debug\net6.0\ConsoleGpaCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\source\repos\ConsoleGpaCalculator\obj\Debug\net6.0\ConsoleGpaCalculator.dll
+C:\Users\Decagon\source\repos\ConsoleGpaCalculator\obj\Debug\net6.0\refint\ConsoleGpaCalculator.dll
+C:\Users\Decagon\source\repos\ConsoleGpaCalculator\obj\Debug\net6.0\ConsoleGpaCalculator.pdb
+C:\Users\Decagon\source\repos\ConsoleGpaCalculator\obj\Debug\net6.0\ConsoleGpaCalculator.genruntimeconfig.cache
+C:\Users\Decagon\source\repos\ConsoleGpaCalculator\obj\Debug\net6.0\ref\ConsoleGpaCalculator.dll
+C:\Users\HP\Dropbox\PC\Desktop\New folder\ConsoleGpaCalculator\bin\Debug\net6.0\ConsoleGpaCalculator.exe
+C:\Users\HP\Dropbox\PC\Desktop\New folder\ConsoleGpaCalculator\bin\Debug\net6.0\ConsoleGpaCalculator.deps.json
+C:\Users\HP\Dropbox\PC\Desktop\New folder\ConsoleGpaCalculator\bin\Debug\net6.0\ConsoleGpaCalculator.runtimeconfig.json
+C:\Users\HP\Dropbox\PC\Desktop\New folder\ConsoleGpaCalculator\bin\Debug\net6.0\ConsoleGpaCalculator.dll
+C:\Users\HP\Dropbox\PC\Desktop\New folder\ConsoleGpaCalculator\bin\Debug\net6.0\ConsoleGpaCalculator.pdb
+C:\Users\HP\Dropbox\PC\Desktop\New folder\ConsoleGpaCalculator\obj\Debug\net6.0\ConsoleGpaCalculator.csproj.AssemblyReference.cache
+C:\Users\HP\Dropbox\PC\Desktop\New folder\ConsoleGpaCalculator\obj\Debug\net6.0\ConsoleGpaCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Dropbox\PC\Desktop\New folder\ConsoleGpaCalculator\obj\Debug\net6.0\ConsoleGpaCalculator.AssemblyInfoInputs.cache
+C:\Users\HP\Dropbox\PC\Desktop\New folder\ConsoleGpaCalculator\obj\Debug\net6.0\ConsoleGpaCalculator.AssemblyInfo.cs
+C:\Users\HP\Dropbox\PC\Desktop\New folder\ConsoleGpaCalculator\obj\Debug\net6.0\ConsoleGpaCalculator.csproj.CoreCompileInputs.cache
+C:\Users\HP\Dropbox\PC\Desktop\New folder\ConsoleGpaCalculator\obj\Debug\net6.0\ConsoleGpaCalculator.dll
+C:\Users\HP\Dropbox\PC\Desktop\New folder\ConsoleGpaCalculator\obj\Debug\net6.0\refint\ConsoleGpaCalculator.dll
+C:\Users\HP\Dropbox\PC\Desktop\New folder\ConsoleGpaCalculator\obj\Debug\net6.0\ConsoleGpaCalculator.pdb
+C:\Users\HP\Dropbox\PC\Desktop\New folder\ConsoleGpaCalculator\obj\Debug\net6.0\ConsoleGpaCalculator.genruntimeconfig.cache
+C:\Users\HP\Dropbox\PC\Desktop\New folder\ConsoleGpaCalculator\obj\Debug\net6.0\ref\ConsoleGpaCalculator.dll
